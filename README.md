@@ -1,7 +1,5 @@
 <!DOCTYPE html>
 <body style="background-color: darkgreen ;"></body>
-<body style='text-decoration-color: antiquewhite;'></tbody>
-
 <h2>
     Scripts das plataformas (Website por Nifirr)
 </h2>
