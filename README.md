@@ -50,3 +50,47 @@ javascript:(function()%7Bjavascript%3A(function()%7B!async%20function()%7Blet%20
   </button>  
   </a>
 </div>
+
+<style>
+.Titulo {
+  justify-self: center;
+}
+
+button {
+  color: white;
+  background-image: linear-gradient(red, black);
+  font-size: 20px;
+}
+
+body {
+  background-image: radial-gradient(purple, black);
+}
+
+.segtitulo {
+  font-size: 25px;
+  color: black;
+  justify-self: left;
+}
+
+h1 {
+  font-family: Arial, sans-serif;
+  color: antiquewhite;
+}
+
+.caixas {
+  justify-self: left;
+  font-size: 35px; /* 'size' is invalid, replaced with font-size */
+}
+
+textarea {
+  color: green;
+  background-color: black;
+  width: 200px;
+  height: 200px;
+  font-size: 15px;
+}
+
+.amongus {
+  justify-self: center;
+}
+</style>
